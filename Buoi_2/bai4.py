@@ -1,0 +1,10 @@
+ho_ten = input("Nhap Ho va Ten: ")
+tuoi = int(input("Nhap Tuoi: "))
+gioi_tinh = input("Nhap Gioi tinh (Nam/Nu): ")
+tinh_trang_hon_nhan = input("Nhap Tinh trang hon nhan (Doc than/Da ket hon): ")
+
+print("\nThong tin nhan khau hoc cua cac ban HIT 15:")
+print(f"Ho va Ten: {ho_ten}")
+print(f"Tuoi: {tuoi}")
+print(f"Gioi tinh: {gioi_tinh}")
+print(f"Tinh trang hon nhan: {tinh_trang_hon_nhan}")
